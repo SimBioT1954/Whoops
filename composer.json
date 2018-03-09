@@ -1,5 +1,5 @@
 {
-    "name": "SimBioT1954/whoops",
+    "name": "simbiot1954/whoops",
     "license": "MIT",
     "description": "php error handling for cool kids",
     "keywords": ["library", "error", "handling", "exception", "whoops", "throwable"],
