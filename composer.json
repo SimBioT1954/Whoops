@@ -32,4 +32,10 @@
             "dev-master": "2.0-dev"
         }
     },
+    "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/SimBioT1954/Whoops.git"
+    }
+  ]
 }
