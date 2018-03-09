@@ -4,6 +4,8 @@
     "description": "php error handling for cool kids",
     "keywords": ["library", "error", "handling", "exception", "whoops", "throwable"],
     "homepage": "https://zveno.org/",    
+    "minimum-stability": "dev",
+    "prefer-stable": true
     "require": {
         "php": "^5.5.9 || ^7.0",
         "psr/log": "^1.0.1"        
