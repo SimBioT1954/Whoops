@@ -1,16 +1,9 @@
 {
-    "name": "filp/whoops",
+    "name": "SimBioT1954/whoops",
     "license": "MIT",
     "description": "php error handling for cool kids",
     "keywords": ["library", "error", "handling", "exception", "whoops", "throwable"],
-    "homepage": "https://filp.github.io/whoops/",
-    "authors": [
-        {
-            "name": "Filipe Dobreira",
-            "homepage": "https://github.com/filp",
-            "role": "Developer"
-        }
-    ],
+    "homepage": "https://zveno.org/",    
     "require": {
         "php": "^5.5.9 || ^7.0",
         "psr/log": "^1.0.1"        
